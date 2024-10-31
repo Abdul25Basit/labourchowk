@@ -39,14 +39,14 @@ npm run start
 ## Images-Screenshot of Project 
 
 
-<h4>Homepage</h4>
 
 ![image](https://github.com/Abdul25Basit/labourchowk/blob/main/home.jpeg?raw=true)
 
-<h4> Signup Page </h4>
-![image](https://github.com/Abdul25Basit/labourchowk/blob/main/signupuser.jpeg?raw=true)
+## Signup Page
 
-<h4>Dashboard</h4>
+![Signup Page Image](https://github.com/Abdul25Basit/labourchowk/blob/main/signupuser.jpeg?raw=true)
+
+##Dashboard
 
 ![image](https://github.com/Abdul25Basit/labourchowk/blob/main/dashboarduser.jpeg?raw=true)
 
