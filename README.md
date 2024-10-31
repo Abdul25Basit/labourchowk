@@ -63,24 +63,24 @@ npm run start
 <h4>Worker</h4>
 
 
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signinworker.jpeg)
+![image](https://github.com/Abdul25Basit/labourchowk/blob/main/home.jpeg?raw=true)
 
 <h4>Customer</h4>
 
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signincustomer.jpeg)
+![image](https://github.com/Abdul25Basit/labourchowk/blob/main/signupuser.jpeg?raw=true)
 
 <h3>Dashboard</h3>
 
 <h4>Worker</h4>
 
 
-![image](https://github.com/18ankitjha/labourchowk/blob/main/dashboardcustomer.jpeg)
+![image](https://github.com/Abdul25Basit/labourchowk/blob/main/dashboarduser.jpeg?raw=true)
 
 <h4>Customer</h4>
 
 
 
-![image](https://github.com/ShubhamKumar5802/labourchowk/blob/main/dashboarduser.jpeg)
+![image](s)
 
 
 
