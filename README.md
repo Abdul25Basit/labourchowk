@@ -36,47 +36,20 @@ npm run start
 ```
 
 ---
-## Images
-
-<h3>HOME PAGE</h3>
-
-![image](https://github.com/ShubhamKumar5802/labourchowk/blob/main/home.jpeg)
+## Images-Screenshot of Project 
 
 
-<h3>SIGN UP PAGES</h3>
-
-<h4>Worker</h4>
-
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signupworker.jpeg)
-
-
-<h4>Customer</h4>
-
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signupuser.jpeg)
-
-
-
-
-
-<h3>LOGIN PAGES</h3>
-
-<h4>Worker</h4>
-
+<h4>Homepage</h4>
 
 ![image](https://github.com/Abdul25Basit/labourchowk/blob/main/home.jpeg?raw=true)
 
-<h4>Customer</h4>
-
+<h4> Signup Page </h4>
 ![image](https://github.com/Abdul25Basit/labourchowk/blob/main/signupuser.jpeg?raw=true)
 
-<h3>Dashboard</h3>
-
-<h4>Worker</h4>
-
+<h4>Dashboard</h4>
 
 ![image](https://github.com/Abdul25Basit/labourchowk/blob/main/dashboarduser.jpeg?raw=true)
 
-<h4>Customer</h4>
 
 
 
