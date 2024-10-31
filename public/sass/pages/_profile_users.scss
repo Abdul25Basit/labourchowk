@@ -1,0 +1,269 @@
+.profile_section {
+  display: flex;
+  background-color: var(--color-grey-light-2);
+}
+
+
+.filters {
+  // height: 120vh;
+  // background-color: rgba(53, 58, 56, 0.985);
+  width: 15vw;
+  padding: 2rem;
+  color: var(--color-grey-light-1);
+  @media screen and (max-width: $bp-medium) {
+    width: 40vw;
+    padding: 1rem;
+  }
+}
+
+.work_type_container {
+  margin: 2rem;
+}
+
+.rating_container {
+  margin: 2rem;
+}
+
+.price_container {
+  margin: 2rem;
+}
+
+.search_container {
+  margin: 2rem;
+}
+
+.r_btn {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0.2rem;
+  input[type="radio"] {
+    display: inline-block;
+  }
+}
+
+.c_box {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0.4rem;
+}
+
+.star_c_r {
+  color: orange;
+}
+
+.s_box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  &_btn {
+    padding: 0.2rem 1.2rem;
+  }
+  &_input {
+      @media screen and (max-width: $bp-medium) {
+        width: 25rem;
+    }
+  }
+}
+.paragraph-1{
+  font-size: 2rem;
+  @media screen and (max-width: $bp-smallest) {
+    font-size: 3rem;
+}
+}
+//////////////////////////////////////////////////////////////////////////
+.profile_container {
+  width: 100vw;
+  height: 8vh;
+  &_heading {
+    color: black;
+    width: 65%;
+    font-size: 4rem;
+    padding-left: 4rem;
+  }
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #e2c183;
+  &_box {
+    padding: 1rem;
+    min-width: 35%;
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    background-color: rgba(53, 58, 56, 0.985);
+  }
+}
+
+.user_img {
+  border-radius: 50%;
+  width: 4rem;
+  height: 4.6rem;
+  margin: 0 0.8rem;
+}
+
+.section_right {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  flex-direction: column;
+}
+
+.lab_cards_container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 8rem 12rem;
+  @media screen and (max-width: $bp-smallest) {
+    padding: 8rem 6rem;
+  }
+  gap: 16rem;
+}
+
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+img {
+  -ms-interpolation-mode: bicubic;
+  vertical-align: middle;
+  border: 0;
+}
+
+.cv {
+  padding-left: 0;
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.cvc {
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+}
+
+.profile-card {
+  border-radius: 25% 10% !important;
+  width: 40rem;
+  overflow: hidden;
+  box-shadow: var(--shadow-dark);
+  background: #363945;
+}
+
+.profile-card header {
+  display: block;
+  background: rgba(255, 255, 255, 1);
+  text-align: center;
+  padding: 2rem 0 1rem;
+}
+
+.profile-card header:before {
+  background: url("http://ali.shahab.pk/blur.php?img=http://ali.shahab.pk/ali-shahab.jpg&x=60")
+    no-repeat;
+  background-size: cover;
+}
+
+.profile-card header img {
+  border-radius: 100%;
+  overflow: hidden;
+  height: 12rem;
+  width: 12rem;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card header h1 {
+  font-weight: 200;
+  font-size: 4.2rem;
+  color: #444;
+}
+
+.profile-card header h2 {
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: #666;
+}
+
+.profile-card .profile-bio {
+  padding: 2rem 1rem 1rem;
+  text-align: center;
+  color: white;
+}
+
+.profile-card .profile-social-links {
+  display: table;
+  width: 70%;
+  margin: 1rem 2rem 1rem;
+}
+/*** VARS ***/
+
+$main-col: #c8c;
+$sec-col: lighten(#303f9f, 20%);
+$back-col: #c5cae9;
+.clear {
+  clear: both;
+}
+/*** CARD STLES ***/
+
+.cards-container {
+  width: 7.93rem;
+  max-width: 100%;
+  margin: 2rem auto;
+}
+
+.card-one {
+  width: 30rem;
+  background: #fff;
+  header {
+    width: 100%;
+    height: 6rem;
+    background-color: $main-col;
+  }
+}
+/*** RESPONSIVE ***/
+
+@media only screen and (max-width: 810px) {
+  .card {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+/*** Remove list css ***/
+
+.remove_css {
+  list-style: none;
+  text-decoration: none;
+}
+
+.heading_wage {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 2.2rem;
+}
+
+.heading_name_labours {
+  // font-size: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.star_c_lab {
+  color: orange;
+}
+
+.btn_numbers {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
